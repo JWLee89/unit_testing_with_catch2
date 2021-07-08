@@ -1,7 +1,7 @@
 #include <vector>
 
 // Local imports
-#include "../../src/cpp/functions.h"
+#include "../../src/cpp/sample.h"
 
 
 // Demo test case 
