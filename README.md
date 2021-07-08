@@ -1,6 +1,11 @@
 # Catch2 Unit Test
 
-To get started, 
+There are no required dependencies to get started. 
+Everything required to run unit test is contained within
+`catch.hpp`. 
+
+To build `catch2` on your local device, refer to the instructions
+in the following link.
 
 ## Getting Started. 
 

@@ -1,15 +1,12 @@
-#include "../../src/cpp/functions.h"
-// Catch-related settings. 
-// Do not repeat definition
-#define CATCH_CONFIG_MAIN
-// Must be included in each unit test. 
-#include "catch.hpp"
-
-// Each test file requires the following import.
 #include <vector>
 
+// Local imports
+#include "../../src/cpp/functions.h"
+
+
 // Demo test case 
-TEST_CASE("Vector sum is computed correctly", "[vector]") {
+TEST_CASE("Vector sum is computed correctly", "[vector]") 
+{
     try 
     {
         std::vector<int>* numbers = new std::vector<int>;
